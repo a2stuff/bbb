@@ -1,3 +1,12 @@
+# MOVED
+
+The new home is at:
+
+https://github.com/a2stuff/prodos-drivers
+
+... which includes this plus several other ProDOS drivers. There's better documentation there too.
+
+
 # Bird's Better Bye - Disassembly (and improvements)
 
 [![Build Status](https://travis-ci.org/a2stuff/bbb.svg?branch=master)](https://travis-ci.org/a2stuff/bbb)
